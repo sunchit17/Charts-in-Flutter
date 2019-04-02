@@ -2,5 +2,5 @@
 
 First Screen with Pie Chart of an Example App
 
-
+![Screenshot](Screenshot_1554238208.png)
 
